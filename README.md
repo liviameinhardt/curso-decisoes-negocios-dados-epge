@@ -9,6 +9,7 @@ O conteúdo principal da disciplina está disponível no [site do curso](https:/
 | Monitoria | Conteúdo | Acesso |
 |---|---|---|
 | **1. Introdução ao Python** | Fundamentos de programação, análise de indicadores econômicos e sociais, visualização de dados e uso de IA como ferramenta de apoio. | [Abrir no Google Colab](https://colab.research.google.com/github/liviameinhardt/curso-decisoes-negocios-dados-epge/blob/main/aulas/Introducao_Python_Economia_Indicadores_Sociais_com_IA.ipynb) · [Ver no GitHub](aulas/Introducao_Python_Economia_Indicadores_Sociais_com_IA.ipynb) |
+| **2. Classificação com scikit-learn** | Introdução ao scikit-learn, projeto de ponta a ponta com pipelines e ajuste de hiperparâmetros, classificação (MNIST), matriz de confusão, precisão e revocação, escolha de limiar pelo custo dos erros, curvas ROC, multiclasse, multirrótulo e multissaída. | [Abrir no Google Colab](https://colab.research.google.com/github/liviameinhardt/curso-decisoes-negocios-dados-epge/blob/main/aulas/Classificacao_com_scikit_learn.ipynb) · [Ver no GitHub](aulas/Classificacao_com_scikit_learn.ipynb) |
 
 Novas monitorias e materiais complementares serão adicionados a esta lista.
 
