@@ -37,7 +37,7 @@ Os notebooks podem ser executados no **[Google Colab](https://colab.research.goo
 - [Repositório do Livro](https://github.com/ageron/handson-ml3)
 - 
 ## Material Complementar 
-Links comentados durante a disciplina
+Links comentados durante as monitorias
 
 - [Canal StatQuest](https://www.youtube.com/@statquest)
 - [Canal 3Blue1Brown](https://www.youtube.com/@3blue1brown) 
