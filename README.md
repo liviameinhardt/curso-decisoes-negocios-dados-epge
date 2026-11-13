@@ -33,3 +33,15 @@ Os notebooks podem ser executados no **[Google Colab](https://colab.research.goo
 - [Documentação do Python](https://docs.python.org/pt-br/3/)
 - [Documentação do pandas](https://pandas.pydata.org/docs/)
 - [Documentação do Matplotlib](https://matplotlib.org/stable/)
+- [Documentação do Sklearn]( https://scikit-learn.org/stable/machine_learning_map.html)
+- [Repositório do Livro](https://github.com/ageron/handson-ml3)
+- 
+## Material Complementar 
+Links comentados durante a disciplina
+
+- [Canal StatQuest](https://www.youtube.com/@statquest)
+- [Canal 3Blue1Brown](https://www.youtube.com/@3blue1brown) 
+- [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/)
+- [Gradient descent - Explicação com exemplos visuais do 3B1B](https://youtu.be/IHZwWFHWa-w)
+- [Viés e Variância - Explicação do StatQuest](https://youtu.be/EuBBz3bI-aA)
+
